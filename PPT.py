@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-import matplotlib as plt
+import matplotlib.pyplot as plt
 import numpy as np
 import re # For regular expressions to find year columns
 
